@@ -1,0 +1,3 @@
+([('ui_practicaExe',
+   '/Users/mac/Desktop/codigo_fuente_practica/dist/ui_practicaExe',
+   'EXECUTABLE')],)

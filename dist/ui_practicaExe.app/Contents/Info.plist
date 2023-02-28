@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>ui_practicaExe</string>
+	<key>CFBundleExecutable</key>
+	<string>ui_practicaExe</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-edbfce5740454d7735be3673ecb7c3bf72dcafcf832775b43bc3669e496e6f58.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>ui_practicaExe</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>ui_practicaExe</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
