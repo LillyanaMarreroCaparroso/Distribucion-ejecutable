@@ -1,1 +1,1 @@
-# Distribucion Ejecutable
+# Distribución Ejecutable
